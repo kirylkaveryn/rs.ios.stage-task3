@@ -24,6 +24,7 @@
 		82ADF97926558D7700D81DB7 /* LexicographicallyMinimalTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 82ADF97626558D7700D81DB7 /* LexicographicallyMinimalTests.m */; };
 		82ADF97D26566AC400D81DB7 /* DateHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 82ADF97C26566AC400D81DB7 /* DateHelper.m */; };
 		82ADF97F26566ACF00D81DB7 /* DateHelperTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 82ADF97E26566ACF00D81DB7 /* DateHelperTests.m */; };
+		ED4A333D265A7E57001123E7 /* preorderTraversal.m in Sources */ = {isa = PBXBuildFile; fileRef = ED4A333C265A7E57001123E7 /* preorderTraversal.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +66,8 @@
 		82ADF97B26566AC400D81DB7 /* DateHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DateHelper.h; sourceTree = "<group>"; };
 		82ADF97C26566AC400D81DB7 /* DateHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DateHelper.m; sourceTree = "<group>"; };
 		82ADF97E26566ACF00D81DB7 /* DateHelperTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DateHelperTests.m; sourceTree = "<group>"; };
+		ED4A333B265A7E57001123E7 /* preorderTraversal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = preorderTraversal.h; sourceTree = "<group>"; };
+		ED4A333C265A7E57001123E7 /* preorderTraversal.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = preorderTraversal.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +134,8 @@
 				82ADF96426558D6400D81DB7 /* LevelOrderTraversal.md */,
 				82ADF96526558D6400D81DB7 /* LevelOrderTraversal.h */,
 				82ADF95F26558D6400D81DB7 /* LevelOrderTraversal.m */,
+				ED4A333B265A7E57001123E7 /* preorderTraversal.h */,
+				ED4A333C265A7E57001123E7 /* preorderTraversal.m */,
 			);
 			path = "Exercise-4";
 			sourceTree = "<group>";
@@ -298,6 +303,7 @@
 				8293ECB926346C7500CEE768 /* main.m in Sources */,
 				82ADF96626558D6400D81DB7 /* LevelOrderTraversal.m in Sources */,
 				82ADF97326558D7000D81DB7 /* PlayersSeparator.m in Sources */,
+				ED4A333D265A7E57001123E7 /* preorderTraversal.m in Sources */,
 				820FABBD26567D60008CFD09 /* NSDate+CustomDate.m in Sources */,
 				82ADF97D26566AC400D81DB7 /* DateHelper.m in Sources */,
 			);
